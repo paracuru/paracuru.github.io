@@ -40,7 +40,7 @@ h2{
 }
 
 .social {
-    padding: 0 160px;
+    padding: 0 100px;
     display: flex;
     justify-content: space-around;
     list-style: none;
@@ -48,7 +48,7 @@ h2{
 }
 
 .social img {
-    width: 33px;
+    width: 45px;
 }
 
 .link-list {
@@ -72,7 +72,7 @@ h2{
     text-decoration: none;
     color:rgb(54,77,204);
     font-weight: bold;
-    width:400px;
+    width:300px;
 }
 
 .link-list li a span {
