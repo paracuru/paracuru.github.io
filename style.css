@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+html, body{
+    height: 100%;
+    
+}
+
+body{
+    display: block;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(3, 3, 3);
+    background: linear-gradient(47deg, rgba(238,142,170,1) 35%, rgba(0,255,184,0.8295693277310925) 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.profile {
+    padding: 20px 0px;
+    text-align: center;
+}
+
+.avatar{
+    width: 80px;
+    border-radius: 50px;
+    border: 3px solid white;
+    
+}
+
+h1{
+    font-family: 'Architects Daughter', cursive;
+}
+
+.link-list {
+    list-style: none;
+}
+
+.link-list li {
+    margin: 10px 20px;
+}
+
+.link-list li a {
+    background: white;
+    padding: 15px 20px;
+    display: block;
+    border-radius: 40px;
+    text-decoration: none;
+}
+
+.link-list li a span {
+    margin: 0 5px;
+    color:rgb(3, 3, 3);
+    font-size: 20px;
+    display: inline-block;
+}
+
+
