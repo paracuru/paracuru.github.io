@@ -31,7 +31,7 @@ h1{
 
 h2{
     font-size: 20px;
-   
+
 }
 
 .profile {
@@ -51,14 +51,14 @@ h2{
 }
 
 .link-list {
-    display: flex;
+    display: inline;
     justify-content: space-around;
     list-style: none;
 }
 
 .link-list li {
-    margin: 10px 20px;
-    
+    margin: 2px 5px;
+
 }
 
 .link-list li a {
@@ -75,5 +75,6 @@ h2{
     color:rgb(87, 84, 84);
     display: block;
     margin-top: 10px;
+    font-size: 14px;
 
 }
